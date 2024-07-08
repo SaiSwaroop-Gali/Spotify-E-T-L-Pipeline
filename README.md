@@ -1,5 +1,7 @@
 # Spotify Data pipeline (ETL)
 
+![Spotify_Project](images/Spotify-ETL.jpeg)
+
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
 •	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage.
@@ -10,5 +12,5 @@
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena.
 
-![Lane Detection Demo](images/Spotify-ETL.jpeg)
+
 
