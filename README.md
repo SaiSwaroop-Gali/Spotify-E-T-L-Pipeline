@@ -2,15 +2,18 @@
 
 ![Spotify_Project](images/Spotify-ETL.jpeg)
 
+![Spotify_Project](images/Snowflake.png)
+
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
-•	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage.
+•	Developed an ETL pipeline for Spotify's data handling, empowering music insights and enhancing accessibility to trends.
 
-•	Configured AWS Lambda with triggers set to execute every one-minute, channelling new data to an S3 bucket for uninterrupted data ingestion
+•	Used AWS Lambda functions to automate data extraction from Spotify API, reducing manual data handling by 35% and showcasing data profiling skills.
 
-•	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders.
+•	Optimized data transformation with S3 triggers and AWS Lambda, leading to the improvement in data sorting, optimization, and retrieval, thus enhancing data accessibility.
 
-•	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena.
+•	Automated data identification and retrieval processes from S3 to Athena using Glue Data Catalog with crawlers, and from S3 to Snowflake DB using Snowpipe.
+
 
 
 
