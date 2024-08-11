@@ -4,7 +4,7 @@
 
 ![Spotify_Project](images/Snowflake.png)
 
-**Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
+**Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena), Snowpipe, Snowflake DB
 
 •	Developed an ETL pipeline for Spotify's data handling, empowering music insights and enhancing accessibility to trends.
 
